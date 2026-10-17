@@ -1,4 +1,4 @@
-# Autonomous Software Engineer (ASE) — Phase 1
+# Autonomous Software Engineer (ASE)
 
 Production-oriented foundation for **Issue → Explore → Plan → Code → Test → Review → PR**.
 
