@@ -2,7 +2,7 @@
 
 Production-oriented foundation for **Issue → Explore → Plan → Code → Test → Review → PR**.
 
-Phase 1 provides FastAPI, React/TypeScript, PostgreSQL/Redis infrastructure, task state machine, API, tests, Docker Compose, and clean boundaries for repository intelligence, agent runtime, sandbox execution, memory, Git/rollback, and evaluation.
+Provides FastAPI, React/TypeScript, PostgreSQL/Redis infrastructure, task state machine, API, tests, Docker Compose, and clean boundaries for repository intelligence, agent runtime, sandbox execution, memory, Git/rollback, and evaluation.
 
 ## Run
 
